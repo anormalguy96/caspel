@@ -1,0 +1,6 @@
+
+Tarix və vaxt: 2026-08-14 18:12:57
+Model: gemini-3.6-flash
+Prompt: salammmm
+
+Cavab: Salam! Necəsiniz? Sizə necə kömək edə bilərəm?
