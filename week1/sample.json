@@ -1,0 +1,18 @@
+{
+  "model": "Qwen",
+  "language": "Azerbaijani",
+  "tests": [
+    {
+      "name": "grammar",
+      "score": 82
+    },
+    {
+      "name": "vocabulary",
+      "score": 91
+    },
+    {
+      "name": "formal_writing",
+      "score": 76
+    }
+  ]
+}

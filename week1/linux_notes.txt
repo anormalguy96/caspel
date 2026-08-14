@@ -1,0 +1,2 @@
+week 1 - linux
+this file has been created using "nano"

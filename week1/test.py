@@ -1,0 +1,1 @@
+print("hello linux") # test file for working with wsl
