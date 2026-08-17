@@ -40,7 +40,14 @@ def main():
             temperature=0.7,
         )
     )
-    if not response.text:
+    # Safely extract text parts from response candidates
+    answer_text = "".join(
+        part.text for candidate in (response.candidates or [])
+        for part in (candidate.content.parts or [])
+        if part.text
+    ).strip()
+
+    if not answer_text:
         print("cavab yoxdur")
         return
     
@@ -48,14 +55,16 @@ def main():
     current_time = now.strftime("%Y-%m-%d %H:%M:%S")
     file_time = now.strftime("%Y-%m-%d_%H-%M-%S")
     
-    file_name = OUTPUT_DIR / f"result_{file_time}.txt"
+    file_name = OUTPUT_DIR / f"result_{file_time}.md"
 
     response_text = f"""
-Tarix və vaxt: {current_time}
-Model: {model_name}
-Prompt: {prompt}
+## Tarix və vaxt: {current_time}
+## Model: {model_name}
+## Prompt: {prompt}
 
-Cavab: {response.text}
+## Cavab: 
+
+{answer_text}
 """
     with open(file_name, "w", encoding="utf-8") as f:
         f.write(response_text)
@@ -67,13 +76,10 @@ if __name__ == "__main__":
         main()
     except KeyboardInterrupt:
         print("\nProses dayandırıldı.\n")
-        return
     except FileNotFoundError as e:
         print(f"\nFayl tapılmadı: \n{e.filename}\n")
-        return
     except PermissionError:
         print("\nİcazə xətası: faylı oxumaq və ya yazmaq mümkün olmadı.\n")
-        return
     except httpx.ConnectError:
         print("\nŞəbəkə xətası: Gemini serverinə qoşulmaq mümkün olmadı.\n")
     except httpx.TimeoutException:

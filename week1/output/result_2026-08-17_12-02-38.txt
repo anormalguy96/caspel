@@ -1,0 +1,33 @@
+
+Tarix və vaxt: 2026-08-17 12:02:38
+Model: gemini-3.6-flash
+Prompt: well known celebrities in Azerbaijan
+
+Cavab: Azərbaycanda musiqi, idman, kino, incəsənət və sosial media sahələrində həm ölkə daxilində, həm də beynəlxalq miqyasda tanınan çoxlu məşhur şəxsiyyətlər var. Ən tanınmışlardan bəzilərini kateqoriyalar üzrə təqdim edirik:
+
+### 1. Musiqiçilər və Müğənnilər
+*   **Emin Ağalarov (EMIN):** Beynəlxalq miqyasda tanınan pop müğənnisi və iş adamı. Rusiyada və Avropada böyük konsertlər verir.
+*   **Aygün Kazımova:** Azərbaycan pop musiqisinin "Diva"sı hesab olunur. Şou-biznesin ən nüfuzlu simalarındandır.
+*   **Röya Ayxan:** Müasir pop musiqisinin ən populyar və çox sevilən müğənnilərindən biri, Xalq artistidir.
+*   **Alim Qasımov:** Dünya şöhrətli muğam ustası. "IMC-UNESCO Beynəlxalq Musiqi Mükafatı" sahibidir və Şərq musiqisini dünyada təbliğ edir.
+*   **Eldar Qasımov və Nigar Camal (Ell & Nikki):** 2011-ci ildə "Running Scared" mahnısı ilə "Eurovision" mahnı müsabiqəsinin qalibi olublar.
+*   **Tünzalə Ağayeva:** Tanınmış müğənni, bəstəkar və Xalq artisti.
+
+### 2. İdmançılar
+*   **Rafael Ağayev:** Karate üzrə 5 qat dünya, 11 qat Avropa çempionu. İdman aləmində "Karatenin Brüs Li"si kimi tanınır.
+*   **Hidayət Heydərov:** Cüdo üzrə 2024 Paris Olimpiya çempionu, dünya və Avropa çempionu.
+*   **Zelyim Kotsoiev:** Cüdo üzrə 2024 Paris Olimpiya çempionu.
+*   **Şəhriyar Məmmədyarov:** Şahmat üzrə dünya qrossmeysteri, uzun illərdir ki, dünya reytinqində top-10-luqda yer alır.
+*   **Qurban Qurbanov:** "Qarabağ" futbol klubunun əfsanəvi baş məşqçisi, Azərbaycan futbolunun ən uğurlu siması.
+
+### 3. Kino, Teatr və Televiziya
+*   **Fəxrəddin Manafov:** Azərbaycanın əfsanəvi teatr və kino aktyoru (xüsusilə "Təhminə" filmindəki Zaur rolu ilə sevilir).
+*   **Afaq Bəşirqızı:** Xalq artisti, Azərbaycan teatrı və kinosunun ən məşhur komediya və dram aktrisalarından biri.
+*   **İlkin Həsəni:** Məşhur televiziya aparıcısı, aktyor və prodüser ("Bozbaş Pictures" layihəsi ilə məşhurlaşıb).
+
+### 4. Beynəlxalq Miqyasda Tanınan Digər Şəxslər
+*   **Anar Ağakişiyev:** Dünya şöhrətli vizajist və stilist. Xüsusilə yaşlı qadınları möcüzəvi şəkildə cavanlaşdırdığı makiyaj videoları ilə beynəlxalq mediada (Forbes, Daily Mail) böyük şöhrət qazanıb.
+
+### 5. Əfsanəvi / Tarixi Məşhurlar
+*   **Müslüm Maqomayev:** SSRİ-nin və dünyanın ən böyük bariton səslərindən biri, əfsanəvi opera və pop müğənnisi.
+*   **Rəşid Behbudov:** Dünya şöhrətli müğənni və aktyor, unikal səs tembrinə malik tarixi şəxsiyyət.
