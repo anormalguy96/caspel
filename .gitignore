@@ -7,3 +7,5 @@ __pycache__/
 .agent/
 .gemini/
 .venv-linux/
+.venv/
+venv/
