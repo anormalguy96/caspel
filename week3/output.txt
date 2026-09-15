@@ -1,0 +1,10 @@
+Prompt: Kosmosda itmiş bir astronavtın tapdığı qəribə obyekt haqqında 3 cümləlik hekayə yaz
+
+Temperature = 0.1:
+Kosmosun sonsuz qaranlığında oksigeni bitmək üzrə olan astronavt, ümidini itirdiyi anda uzaqda qəribə bir işıq saçan obyekt gördü. Ehtiyatla yaxınlaşanda, bu obyektin üzərində qədim Yer xəritələri həkk olunmuş, kristal kimi parıldayan sirli bir kub olduğunu fərq etdi. O, kuba toxunan kimi skafandrı yenidən enerji ilə doldu və şüurunda onu birbaşa Evə yönləndirən naməlum bir koordinat sistemi peydə oldu.
+
+Temperature = 0.7:
+Sonsuz qaranlıqda çarəsizcə süzülən astronavt, oksigeninin bitməsinə dəqiqələr qalmış qarşısında bənövşəyi işıq saçan, kristal formalı qəribə bir obyekt gördü. Fizika qanunlarına zidd olaraq kosmosun soyuq sükutunda hərarət yayan bu obyekt, sanki canlı bir ürək kimi ritmik şəkildə döyünürdü. Astronavt titrəyən əli ilə onun səthinə toxunduğu an, obyekt birdən işıq saçaraq açıldı və onu bir göz qırpımında evinə qaytaracaq nurani bir portal yaratdı.
+
+Temperature = 1.0:
+Sonsuz kosmosun qaranlığında təkbaşına süzülən və oksigeni bitmək üzrə olan astronavt, uzaqda qəribə bir işıq saçan naməlum obyekt gördü. Ehtiyatla yaxınlaşdıqda, bu obyektin sanki canlı kimi nəfəs alan və daxilində minlərlə parlaq ulduz gizlədən şəffaf bir kristal kub olduğunu fərq etdi. Kube toxunduğu an, obyekt onun beyninə bütün kainatın xəritəsini ötürərək evə qayıdan təhlükəsiz yolu açdı.
